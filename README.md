@@ -1,4 +1,3 @@
-# Receipt-Processing-System-using-AWS
 # 📄 Real-Time Receipt Processing System using AWS
 
 This project is a **serverless, AI-powered** pipeline to process uploaded receipts automatically.
@@ -24,7 +23,10 @@ This system:
 ---
 
 ## 📂 Report
-You can view the detailed report in the `docs/` folder:
-- [Receipt Processing System.pdf](docs/Receipt Processing System.pdf)
+You can view the detailed report in the `docs/` folder.
 
 ---
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
